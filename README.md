@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @gabiinicola
-- 👀 I’m interested in get a job as "Jr Front-End Developer"
-- 🌱 I’m currently learning JavaScript and React
-- 📫 How to reach me: @gabrielnicola8@gmail.com
-- Programming Languages I Learned: Html/CSS/JS/React
